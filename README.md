@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Sebastián Arámbulo!
-- 👀 I’m interested in Web Development/Game Dev
-- 🌱 I’m currently learning .Net
-- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me earambulo.sa@gmail.com
 
 <!---
